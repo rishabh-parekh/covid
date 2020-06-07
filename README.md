@@ -168,7 +168,11 @@ API Server Code snippet
 ## 4. Data Analytics
 
 ### Objective 
-The objective of the data analytics is to provide administraton and policy makers the contextual data to make decisions
+The objective of the data analytics is to provide administraton and policy makers the contextual data to make decisions. 
+
+## Prediction Data
+
+Over here, we will reference the Reich lab and other fanstic data collectors and predictors. Our specific goal to to enable universities and policy makers to contextualize data along with prediction models....
 
 ### Code
 
@@ -221,5 +225,5 @@ How can the data from this app (approach) help them?
   Rishabh Parekh (@rishabh-parekh) ![rishabh](images/rishabh.png)
 
   Spencer Le () ![rishabh](images/rishabh.png)
-  
+
   Michael Savides () ![rishabh](images/rishabh.png)
