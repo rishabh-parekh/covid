@@ -75,6 +75,8 @@ The user will use the QR Code to get entry in various university locations
 
 Discuss the parts for the data , static, dynamic data, health data. 
 
+This would be from the presentation. 
+
 
 ## 2. Scanner App
 
@@ -122,6 +124,9 @@ QRScanner.initiate({
 
 The scanner similar to TSA scanner, will scan the QR code, anonmyise it and add location and time, and post it to the API Server. 
 
+## Data Privacy
+In regards to data privacy, the data would be anonymized and stripped off any personal data (ie. name, address, phone number, student ID, date of birth).
+The data would be posted to an API server in an encrypted format. 
 ### Data 
 
 Discuss the parts for the data , static, dynamic data, health data. 
