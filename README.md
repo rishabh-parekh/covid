@@ -67,7 +67,7 @@ The git hub repo (github.com/rishabh-parekh/covid-encoder.git) has the sample co
 
 ### Workflow
 
-The user will generate the QR code on the covId App, and update it every day based on new condtions - temperature, heart rates.  (Press the Generate QR Code button)
+The user will generate the QR code on the covId App, and update it every day based on new conditions - temperature, heart rates.  (Press the Generate QR Code button)
 
 The user will use the QR Code to get entry in various university locations
 
