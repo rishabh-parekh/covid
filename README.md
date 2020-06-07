@@ -10,6 +10,7 @@ With our idea, every student’s individual “covID” will function as the tra
 
 # Scientific Context
 
+## Examining Contact Tracing
 << Talk about how covid spreads, mortality, underlying conditions>>
 
 << Put graphs and images>>
