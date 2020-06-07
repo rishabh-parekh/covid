@@ -186,11 +186,17 @@ County level notifications
 
 
 # University Policy Decisions
+
 <Section on what policy decisions universities have to make>
+
 << Use the emails from campus, various subcommittee >>
+
 1. Capacity of classrooms
+
 Large lecture halls, smaller sections, labs, 
+
 2. Common Areas: cafeterias, libraries, 
+
 3. 
 
 ## Policy Challenges:
@@ -204,14 +210,16 @@ How can the data from this app (approach) help them?
 
 ## Where else can this be used: 
 
-Sports events
-Airports
-Music concert
+- Sports events
+- Airports
+- Music concert
 
 
 
 # Authors
   
   Rishabh Parekh (@rishabh-parekh) ![rishabh](images/rishabh.png)
+
   Spencer Le () ![rishabh](images/rishabh.png)
+  
   Michael Savides () ![rishabh](images/rishabh.png)
